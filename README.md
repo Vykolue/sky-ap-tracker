@@ -1,2 +1,2 @@
-# sky-ap-tracker.github.io
+# Sky AP Tracker
 A tracker for Sky AP
